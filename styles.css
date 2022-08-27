@@ -1,0 +1,12 @@
+.aliniacion {
+    height: 50vh;
+
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: space-between;
+
+}
+.color_titulo{color: darkblue;}
+.color_numero{color: darkred;}
+.color_buton{color: aqua;}
